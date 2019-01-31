@@ -7,7 +7,7 @@
   "author": "Edouard Schuppert",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://twitter.com/",
+    "serviceURL": "https://twitter.com/login",
     "hasNotificationSound": true
   }
 }
